@@ -77,8 +77,8 @@ In analytics, you never use just one conversion rate — you calculate multiple 
 
 | Metric (Conversion Goal)       | Formula                                     | Insight                                |
 | ------------------------------ | ------------------------------------------- | -------------------------------------- |
-| **Click-through rate (CTR)**   | `Clicks ÷ Impressions`                      | Are users interested enough to click?  |
 | **Engagement Rate**            | `(Likes + Comments + Shares) ÷ Impressions` | Is the ad resonating socially?         |
+| **Click-through rate (CTR)**   | `Clicks ÷ Impressions`                      | Are users interested enough to click?  |
 | **Post-Click Conversion Rate** | `Purchases ÷ Clicks`                        | Is the landing page convincing?        |
 | **Overall Conversion Rate**    | `Purchases ÷ Impressions`                   | What’s the overall funnel efficiency?  |
 
