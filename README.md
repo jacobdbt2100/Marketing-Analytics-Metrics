@@ -21,12 +21,14 @@ User views of the ad; `impression`, `view`. It is top of the funnel.
 ### Engagement
 User interactions with the ad; `like`, `share`, `comment`, `click`
 
-### Lead/Intent
-User showed purchase intent but didn't complete it; `add_to_cart`, `signup`, `form_submit`
+### Lead (Intent)
+User purchase/subscription intent without conversion; `add_to_cart`, `signup`, `form_submit`
 
-### Conversion		purchase, subscribed	User completed the desired business action
+### Conversion
+User completion of the desired business action; `purchase`, `subscribed`
 
-### Return on Investment (ROI)	Measures ad profitability rate	(Ads Revenue - Ad Spend) * 100 / Ad Spend
+### Return on Investment (ROI)
+Measures ad profitability rate;	`(Ads Revenue - Ad Spend) * 100 / Ad Spend`
 
 ### Return on Ad Spend (ROAS)		Revenue / Ad Spend
 
