@@ -17,7 +17,7 @@ Unique number of users who saw the ad at least once.
 
 ### Awareness
 User saw the ad (top of the funnel)
-    - impression
+- impression
     - view 
 
 ### Engagement		like, share, comment, click	User interacted with the ad
