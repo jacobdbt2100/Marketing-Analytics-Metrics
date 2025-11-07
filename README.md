@@ -72,7 +72,14 @@ Average cost a business spends to acquire one new customer;	`= Marketing Spend /
 | **Interest**   | Click                 | Link or landing page visits |
 | **Conversion** | Purchase, Subscribe   | Intended action completions |
 
+## Efficiency Metrics base on Goals
 
+| Conversion Goal              | Formula                                     | Measures                            |
+| ---------------------------- | ------------------------------------------- | ------------------------------------|
+| **Overall ad performance**   | `Purchase ÷ Impressions`                    | Impressions to sales efficiency     |
+| **Conversion efficiency**    | `Purchase ÷ Clicks`                         | Ad + landing page effectiveness     |
+| **Engagement strength**      | `(Likes + Comments + Shares) ÷ Impressions` | Engagement efficiency of ad content |
+| **Click-through rate (CTR)** | `Clicks ÷ Impressions`                      | How well ad creative drives traffic |
 
 
 
