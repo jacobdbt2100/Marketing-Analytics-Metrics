@@ -73,7 +73,7 @@ Average cost a business spends to acquire one new customer;	`= Marketing Spend /
 | **Conversion** | Purchase, Subscribe   | Intended action completions |
 
 ## Efficiency Metrics base on Goals
-In analytics, you never use just one conversion rate — you calculate multiple rates to understand where drop-offs happen.
+In analytics, you never use just one conversion rate — you calculate multiple rates to understand where `drop-offs` happen.
 
 | Metric (Conversion Goal)       | Formula                                     | Insight                                |
 | ------------------------------ | ------------------------------------------- | -------------------------------------- |
