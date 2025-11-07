@@ -82,6 +82,25 @@ In analytics, you never use just one conversion rate — you calculate multiple 
 | **Post-Click Conversion Rate** | `Purchases ÷ Clicks`                        | Is the landing page convincing?        |
 | **Overall Conversion Rate**    | `Purchases ÷ Impressions`                   | What’s the overall funnel efficiency?  |
 
+## SQL example
 
+```sql
+SELECT
+    campaign_id,
+    SUM(CASE WHEN event_type = 'Impression' THEN 1 END) AS impressions,
+    SUM(CASE WHEN event_type = 'Click' THEN 1 END) AS clicks,
+    SUM(CASE WHEN event_type IN ('Like', 'Comment', 'Share') THEN 1 END) AS engagements,
+    SUM(CASE WHEN event_type = 'Purchase' THEN 1 END) AS purchases,
 
+    ROUND(SUM(CASE WHEN event_type = 'Click' THEN 1 END)::decimal 
+          / NULLIF(SUM(CASE WHEN event_type = 'Impression' THEN 1 END), 0) * 100, 2) AS ctr_percent,
 
+    ROUND(SUM(CASE WHEN event_type = 'Purchase' THEN 1 END)::decimal 
+          / NULLIF(SUM(CASE WHEN event_type = 'Click' THEN 1 END), 0) * 100, 2) AS post_click_conversion,
+
+    ROUND(SUM(CASE WHEN event_type = 'Purchase' THEN 1 END)::decimal 
+          / NULLIF(SUM(CASE WHEN event_type = 'Impression' THEN 1 END), 0) * 100, 3) AS overall_conversion
+
+FROM staging.ad_events
+GROUP BY campaign_id;
+```
