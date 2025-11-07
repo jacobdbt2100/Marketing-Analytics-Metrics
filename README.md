@@ -1,6 +1,6 @@
 # Marketing Analytics Metrics
 
-## KEY METRICS
+## 1. Key Metrics
 
 ### Ad Spend:
 
@@ -63,6 +63,14 @@ Lifespan of a customer (e.g., years, months); `= (Max Order date - Min Order dat
 ### Customer Acquisition Cost (CAC):
 Average cost a business spends to acquire one new customer;	`= Marketing Spend / New Customers`. **Components of Costs:** Advertising spend (digital ads, TV, print, etc.), Sales team salaries and commissions, Marketing software/tools and technology, Creative & content production costs, Overheads directly tied to customer acquisition.
 
+## Ads Event Hierarchy for Funnel Analysis
+
+| Funnel Stage   | Event Example         | What it Indicates           |
+| -------------- | --------------------- | --------------------------- |
+| **Awareness**  | Impression            | Ad views                    |
+| **Engagement** | Like, Comment, Share  | Ad interactions             |
+| **Interest**   | Click                 | Link or landing page visits |
+| **Conversion** | Purchase, Subscribe   | Intended action completions |
 
 
 
