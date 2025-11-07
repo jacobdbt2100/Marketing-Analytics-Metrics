@@ -1,10 +1,10 @@
 # Marketing Analytics Metrics
 
-## **Ad Spend:**
-2. **Revenue:**
-3. **Profit:**
+### Ad Spend
+### Revenue
+### Profit
    Revenue - Ad Spend
-4. **Impressions:**	Number of times an ad/post/content was shown (screen displays)
+### Impressions	Number of times an ad/post/content was shown (screen displays)
 5. **Reach:**	Unique number of users who saw the ad at least once
 6. **Awareness:**		impression, view	User saw the ad (top of the funnel)
 7. **Engagement:**		like, share, comment, click	User interacted with the ad
