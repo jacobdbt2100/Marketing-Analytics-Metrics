@@ -1,6 +1,6 @@
 # Marketing Analytics Metrics
 
-1. **Ad Spend:**
+## **Ad Spend:**
 2. **Revenue:**
 3. **Profit:**
    Revenue - Ad Spend
