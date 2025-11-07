@@ -43,7 +43,7 @@ Measures how much is paid to acquire one conversion (e.g., purchase, signup, dow
 Percentage of people who click on a link, ad, or call-to-action after seeing it; `Clicks * 100 / Impressions`
 
 ### Engagement Rate:
-Percentage of people who like, comment on, or shared a post after seeing it; `(Likes+Comments+Shares) * 100 / Impressions`
+Percentage of people who like, comment on, or shared a post after seeing it; `(Likes + Comments + Shares) * 100 / Impressions`
 
 ### Conversion Rate:		Conversions / Clicks
 
