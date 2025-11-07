@@ -49,15 +49,19 @@ Percentage of people who like, comment on, or shared a post after seeing it; `(L
 `= Conversions * 100 / Clicks`
 
 ### Customer Lifetime Value (CLV):
-Total revenue expected from a customer during their entire relationship with the business; `= AOV * PF * CL`. Ideally, `CLV >> CAC`
+Total revenue expected from a customer during their entire relationship with the business; `= Average_Order_Value (AOV) * Purchase_Frequency (PF) * Customer_Lifespan (CL)`. Ideally, `CLV >> CAC`
 
-### Average Order Value (AOV):		Total Revenue / Total Orders
+### Average Order Value (AOV):
+`= Total Revenue / Total Orders`
 
-### Purchase Frequency (PF):		Total Orders / Total Customers
+### Purchase Frequency (PF):
+`= Total Orders / Total Customers`
 
-### Customer Lifespan (CL):	Lifespan of a customer (e.g., years, months)	(Max Order date - Min Order date)
+### Customer Lifespan (CL):
+Lifespan of a customer (e.g., years, months); `= (Max Order date - Min Order date)`
 
-### Customer Acquisition Cost (CAC):	Average cost a business spends to acquire one new customer	Marketing Spend / New Customers	Components of Costs: Advertising spend (digital ads, TV, print, etc.), Sales team salaries and commissions, Marketing software/tools and technology, Creative & content production costs, Overheads directly tied to customer acquisition
+### Customer Acquisition Cost (CAC):
+Average cost a business spends to acquire one new customer;	`= Marketing Spend / New Customers`. **Components of Costs:** Advertising spend (digital ads, TV, print, etc.), Sales team salaries and commissions, Marketing software/tools and technology, Creative & content production costs, Overheads directly tied to customer acquisition.
 
 
 
