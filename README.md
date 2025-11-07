@@ -73,14 +73,14 @@ Average cost a business spends to acquire one new customer;	`= Marketing Spend /
 | **Conversion** | Purchase, Subscribe   | Intended action completions |
 
 ## Efficiency Metrics base on Goals
+In analytics, you never use just one conversion rate — you calculate multiple rates to understand where drop-offs happen.
 
-| Conversion Goal              | Formula                                     | Measures                            |
-| ---------------------------- | ------------------------------------------- | ------------------------------------|
-| **Overall ad performance**   | `Purchase ÷ Impressions`                    | Impressions to sales efficiency     |
-| **Conversion efficiency**    | `Purchase ÷ Clicks`                         | Ad + landing page effectiveness     |
-| **Engagement strength**      | `(Likes + Comments + Shares) ÷ Impressions` | Engagement efficiency of ad content |
-| **Click-through rate (CTR)** | `Clicks ÷ Impressions`                      | How well ad creative drives traffic |
-
+| Metric (Conversion Goal)       | Formula                                     | Insight                                |
+| ------------------------------ | ------------------------------------------- | -------------------------------------- |
+| **Click-through rate (CTR)**   | `Clicks ÷ Impressions`                      | Are users interested enough to click?  |
+| **Engagement Rate**            | `(Likes + Comments + Shares) ÷ Impressions` | Is the ad resonating socially?         |
+| **Post-Click Conversion Rate** | `Purchases ÷ Clicks`                        | Is the landing page convincing?        |
+| **Overall Conversion Rate**    | `Purchases ÷ Impressions`                   | What’s the overall funnel efficiency?  |
 
 
 
