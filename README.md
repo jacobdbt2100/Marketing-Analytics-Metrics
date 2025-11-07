@@ -39,7 +39,11 @@ Measures how much is paid each time a user clicks on an ad in pay-per-click (PPC
 ### Cost per Acquisition (CPA):
 Measures how much is paid to acquire one conversion (e.g., purchase, signup, download); `Ad Spend / Conversions`. A conversion is usually defined by the campaign’s objective.
 
-### Click-through Rate (CTR):	Percentage of people who click on a link, ad, or call-to-action after seeing it (engagement rate)	Clicks * 100 / Impressions
+### Click-through Rate (CTR):
+Percentage of people who click on a link, ad, or call-to-action after seeing it; `Clicks * 100 / Impressions`
+
+### Engagement Rate:
+Percentage of people who like, comment on, or shared a post after seeing it; `(Likes+Comments+Shares) * 100 / Impressions`
 
 ### Conversion Rate:		Conversions / Clicks
 
