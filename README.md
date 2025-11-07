@@ -25,16 +25,19 @@ User interactions with the ad; `like`, `share`, `comment`, `click`
 User purchase/subscription intent without conversion; `add_to_cart`, `signup`, `form_submit`
 
 ### Conversion:
-User completion of the desired business action; `purchase`, `subscribed`
+User completion of the desired business action; `purchase`, `subscription`, `download`
 
 ### Return on Investment (ROI):
 Measures ad profitability rate;	`(Ads Revenue - Ad Spend) * 100 / Ad Spend`
 
-### Return on Ad Spend (ROAS):		Revenue / Ad Spend
+### Return on Ad Spend (ROAS):
+`Revenue / Ad Spend`
 
-### Cost per Click (CPC):	Measures how much is paid each time a user clicks on an ad in pay-per-click (PPC) campaigns	Ad Spend / Clicks
+### Cost per Click (CPC):
+Measures how much is paid each time a user clicks on an ad in pay-per-click (PPC) campaigns;	`Ad Spend / Clicks`
 
-### Cost per Acquisition (CPA):	Measures how much is paid to acquire one conversion (e.g., purchase, signup, download). A conversion is usually defined by the campaign’s objective	Ad Spend / Conversions
+### Cost per Acquisition (CPA):
+Measures how much is paid to acquire one conversion (e.g., purchase, signup, download); `Ad Spend / Conversions`. A conversion is usually defined by the campaign’s objective.
 
 ### Click-through Rate (CTR):	Percentage of people who click on a link, ad, or call-to-action after seeing it (engagement rate)	Clicks * 100 / Impressions
 
