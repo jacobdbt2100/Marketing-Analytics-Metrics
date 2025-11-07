@@ -1,10 +1,9 @@
 # Marketing Analytics Metrics
 
-Metric	Description	Formula/Example	Note
-
 1. **Ad Spend:**
 2. **Revenue:**
-3. **Profit:**		Revenue - Ad Spend
+3. **Profit:**
+  - Revenue - Ad Spend
 4. **Impressions:**	Number of times an ad/post/content was shown (screen displays)
 5. **Reach:**	Unique number of users who saw the ad at least once
 6. **Awareness:**		impression, view	User saw the ad (top of the funnel)
