@@ -7,7 +7,7 @@
 ### Revenue:
 
 ### Profit:
-Revenue - Ad Spend
+`= Revenue - Ad Spend`
 
 ### Impressions:
 Number of times an ad/post/content was shown (screen displays).
@@ -28,26 +28,28 @@ User purchase/subscription intent without conversion; `add_to_cart`, `signup`, `
 User completion of the desired business action; `purchase`, `subscription`, `download`
 
 ### Return on Investment (ROI):
-Measures ad profitability rate;	`(Ads Revenue - Ad Spend) * 100 / Ad Spend`
+Measures ad profitability rate;	`= (Ads Revenue - Ad Spend) * 100 / Ad Spend`
 
 ### Return on Ad Spend (ROAS):
-`Revenue / Ad Spend`
+`= Revenue / Ad Spend`
 
 ### Cost per Click (CPC):
-Measures how much is paid each time a user clicks on an ad in pay-per-click (PPC) campaigns;	`Ad Spend / Clicks`
+Measures how much is paid each time a user clicks on an ad in pay-per-click (PPC) campaigns;	`= Ad Spend / Clicks`
 
 ### Cost per Acquisition (CPA):
-Measures how much is paid to acquire one conversion (e.g., purchase, signup, download); `Ad Spend / Conversions`. A conversion is usually defined by the campaign’s objective.
+Measures how much is paid to acquire one conversion (e.g., purchase, signup, download); `= Ad Spend / Conversions`. A conversion is usually defined by the campaign’s objective.
 
 ### Click-through Rate (CTR):
-Percentage of people who click on a link, ad, or call-to-action after seeing it; `Clicks * 100 / Impressions`
+Percentage of people who click on a link, ad, or call-to-action after seeing it; `= Clicks * 100 / Impressions`
 
 ### Engagement Rate:
 Percentage of people who like, comment on, or shared a post after seeing it; `(Likes + Comments + Shares) * 100 / Impressions`
 
-### Conversion Rate:		Conversions / Clicks
+### Conversion Rate:
+`= Conversions * 100 / Clicks`
 
-### Customer Lifetime Value (CLV):	Total revenue expected from a customer during their entire relationship with the business. Ideally, CLV >> CAC	AOV * PF * CL
+### Customer Lifetime Value (CLV):
+Total revenue expected from a customer during their entire relationship with the business; `= AOV * PF * CL`. Ideally, `CLV >> CAC`
 
 ### Average Order Value (AOV):		Total Revenue / Total Orders
 
