@@ -16,13 +16,13 @@ Number of times an ad/post/content was shown (screen displays).
 Unique number of users who saw the ad at least once.
 
 ### Awareness
-User saw the ad (top of the funnel)
-- impression
-    - view 
+User views of the ad; `impression`, `view`. It is top of the funnel.
 
-### Engagement		like, share, comment, click	User interacted with the ad
+### Engagement
+User interactions with the ad; `like`, `share`, `comment`, `click`
 
-### Lead/Intent		add_to_cart, signup, form_submit	User showed purchase intent but didn't complete it
+### Lead/Intent
+User showed purchase intent but didn't complete it; `add_to_cart`, `signup`, `form_submit`
 
 ### Conversion		purchase, subscribed	User completed the desired business action
 
