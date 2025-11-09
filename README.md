@@ -163,7 +163,7 @@ GROUP BY campaign_id;
 
 Video ads (Campaign A) have the highest CTR (8%) and ROAS (2.5), meaning they are both engaging and profitable.
 
-> Recommendation: Allocate more budget to video creatives.
+> **Recommendation:** Allocate more budget to video creatives.
 
 
 
