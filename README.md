@@ -63,7 +63,7 @@ Lifespan of a customer (e.g., years, months); `= (Max Order date - Min Order dat
 ### Customer Acquisition Cost (CAC):
 Average cost a business spends to acquire one new customer;	`= Marketing Spend / New Customers`. **Components of Costs:** Advertising spend (digital ads, TV, print, etc.), Sales team salaries and commissions, Marketing software/tools and technology, Creative & content production costs, Overheads directly tied to customer acquisition.
 
-2. ## Ads Event Hierarchy for Funnel Analysis
+## 2. Ads Event Hierarchy for Funnel Analysis
 
 | Funnel Stage   | Event Example         | What it Indicates           |
 | -------------- | --------------------- | --------------------------- |
@@ -72,7 +72,7 @@ Average cost a business spends to acquire one new customer;	`= Marketing Spend /
 | **Interest**   | Click                 | Link or landing page visits |
 | **Conversion** | Purchase, Subscribe   | Intended action completions |
 
-3. ## Efficiency Metrics base on Goals
+## 3. Efficiency Metrics base on Goals
 
 In analytics, you never use just one conversion rate — you calculate multiple rates to understand where `drop-offs` happen.
 
