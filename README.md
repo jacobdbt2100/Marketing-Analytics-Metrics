@@ -161,17 +161,24 @@ GROUP BY campaign_id;
 
 **E) Insights Example:**
 
-Video ads (Campaign A) have the highest CTR (8%) and ROAS (2.5), meaning they are both engaging and profitable.
+1. **Video ads (Campaign A)** have the **highest CTR (8%) and ROAS (2.5)**, meaning they are both engaging and profitable.
 
 > **Recommendation:** Allocate more budget to video creatives.
 
+2. **Image ads (Campaign B)** show higher **engagement (7.2%)** but lower **conversion efficiency (6.3%)**.
 
+> **Recommendation:** Use image ads earlier in the funnel (awareness), not for direct sales.
 
+3. **Text-based ads (Campaign C)** underperform on all fronts.
 
+ > **Recommendation:** Phase out or rework text content.
 
+4. **Next step:** Segment by audience — e.g., 18–24 might engage more, but 25–34 may purchase more.
 
+**F) Summary Framework for Future Use:**
 
-
-
-
-
+| **Stage**  | **Goal**                   | **Key Metrics**            | **Improvement Focus**       |
+| ---------- | -------------------------- | -------------------------- | --------------------------- |
+| Awareness  | Increase visibility        | Impressions                | Targeting & ad placement    |
+| Engagement | Drive interaction          | Engagement Rate            | Content & creativity        |
+| Conversion | Turn clicks into purchases | CTR, Conversion Rate, ROAS | Landing page, offer, timing |
