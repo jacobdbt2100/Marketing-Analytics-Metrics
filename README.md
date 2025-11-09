@@ -126,6 +126,45 @@ GROUP BY campaign_id;
 
     - Across `campaigns` or `periods` to find what drives effectiveness
 
+**B) Key Questions:**
+
+| **Category**                                 | **Question**                                                                  | **Purpose**                             |
+| -------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------- |
+| **Reach & Exposure**                         | How many people saw the ad? Which platforms deliver the highest reach?        | To identify visibility.                 |
+| **Engagement**                               | Which ads have the most interactions (likes, shares, comments)?               | To measure how engaging the content is. |
+| **Click Performance**                        | What percentage of impressions result in clicks (CTR)?                        | To gauge how compelling the ad is.      |
+| **Conversion**                               | What percentage of clicks or engagements lead to purchases (Conversion Rate)? | To assess business impact.              |
+| **Cost Effectiveness** (if cost data exists) | How much does each click or purchase cost (CPC, CPA)?                         | To evaluate ROI.                        |
+| **Audience Insights**                        | Which age group or gender segment converts best?                              | To refine targeting.                    |
+| **Content Analysis**                         | Do video ads perform better than image ads?                                   | To guide creative strategy.             |
+
+**C) Most Important Metrics:**
+
+| **Metric**                     | **Formula**                                         | **Meaning**                   |
+| ------------------------------ | --------------------------------------------------- | ----------------------------- |
+| **Impressions**                | Count of times ad shown                             | Reach/visibility              |
+| **Clicks**                     | Count of link clicks                                | Interest generated            |
+| **Click-Through Rate (CTR)**   | `(Clicks / Impressions) × 100`                      | Ad appeal effectiveness       |
+| **Engagement Rate (ER)**       | `((Likes + Shares + Comments) / Impressions) × 100` | Audience interaction strength |
+| **Conversion Rate (CR)**       | `(Purchases / Clicks) × 100`                        | Sales effectiveness           |
+| **Cost per Click (CPC)**       | `Total Spend / Clicks`                              | Click efficiency              |
+| **Cost per Acquisition (CPA)** | `Total Spend / Purchases`                           | Cost per conversion           |
+| **Return on Ad Spend (ROAS)**  | `Revenue / Spend`                                   | Overall profitability         |
+
+**D) Example Analysis Output (Simplified):**
+
+| Campaign  | Impressions | Clicks | CTR (%) | Engagement Rate (%) | Purchases | Conversion Rate (%) | ROAS |
+| --------- | ----------- | ------ | ------- | ------------------- | --------- | ------------------- | ---- |
+| A (Video) | 10,000      | 800    | 8.0     | 5.5                 | 40        | 5.0                 | 2.5  |
+| B (Image) | 12,000      | 480    | 4.0     | 7.2                 | 30        | 6.3                 | 1.8  |
+| C (Text)  | 8,000       | 320    | 4.0     | 3.0                 | 12        | 3.8                 | 1.2  |
+
+**E) Insights Example:**
+
+Video ads (Campaign A) have the highest CTR (8%) and ROAS (2.5), meaning they are both engaging and profitable.
+
+> Recommendation: Allocate more budget to video creatives.
+
 
 
 
