@@ -105,3 +105,34 @@ SELECT
 FROM staging.ad_events
 GROUP BY campaign_id;
 ```
+## 4. Marketing Ads Effectiveness Analysis Approach
+
+**`Steps:`**
+
+- **Understand the Funnel**
+
+    - `Impression` > `Click` > `Engagement` (like, share, comment) > `Purchase`
+
+- **Define Key Metrics**
+
+    - Start from `reach` and `engagement`, then `conversion`
+    - Use `ratios`, not just raw counts (e.g. `Click-through rate` instead of `total clicks`)
+
+- **Segment Data**
+
+    - By `platform`, `ad type`, `campaign`, `audience` (age, gender, country), etc.
+
+- **Compare Performance**
+
+    - Across `campaigns` or `periods` to find what drives effectiveness
+
+
+
+
+
+
+
+
+
+
+
