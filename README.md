@@ -107,7 +107,7 @@ GROUP BY campaign_id;
 ```
 ## 4. Marketing Ads Effectiveness Analysis Approach
 
-**`Steps:`**
+**A) Steps:**
 
 - **Understand the Funnel**
 
