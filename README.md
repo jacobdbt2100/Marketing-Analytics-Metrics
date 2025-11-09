@@ -128,15 +128,15 @@ GROUP BY campaign_id;
 
 **B) Key Questions:**
 
-| **Category**                                 | **Question**                                                                  | **Purpose**                             |
-| -------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------- |
-| **Reach & Exposure**                         | How many people saw the ad? Which platforms deliver the highest reach?        | To identify visibility.                 |
-| **Engagement**                               | Which ads have the most interactions (likes, shares, comments)?               | To measure how engaging the content is. |
-| **Click Performance**                        | What percentage of impressions result in clicks (CTR)?                        | To gauge how compelling the ad is.      |
-| **Conversion**                               | What percentage of clicks or engagements lead to purchases (Conversion Rate)? | To assess business impact.              |
-| **Cost Effectiveness** (if cost data exists) | How much does each click or purchase cost (CPC, CPA)?                         | To evaluate ROI.                        |
-| **Audience Insights**                        | Which age group or gender segment converts best?                              | To refine targeting.                    |
-| **Content Analysis**                         | Do video ads perform better than image ads?                                   | To guide creative strategy.             |
+| **Category**                                 | **Question**                                                                  | **Purpose**                            |
+| -------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
+| **Reach & Exposure**                         | How many people saw the ad? Which platforms deliver the highest reach?        | To identify visibility                 |
+| **Engagement**                               | Which ads have the most interactions (likes, shares, comments)?               | To measure how engaging the content is |
+| **Click Performance**                        | What percentage of impressions result in clicks (CTR)?                        | To gauge how compelling the ad is      |
+| **Conversion**                               | What percentage of clicks lead to purchases (Conversion Rate)?                | To assess business impact              |
+| **Cost Effectiveness** (if cost data exists) | How much does each click or purchase cost (CPC, CPA)?                         | To evaluate ROI                        |
+| **Audience Insights**                        | Which age group or gender segment converts best?                              | To refine targeting                    |
+| **Content Analysis**                         | Do video ads perform better than image ads?                                   | To guide creative strategy             |
 
 **C) Most Important Metrics:**
 
