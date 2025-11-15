@@ -4,10 +4,10 @@
 
 ### Ad Spend:
 
-### Revenue:
+### Ad Revenue:
 
 ### Profit:
-`= Revenue - Ad Spend`
+`= Ad Revenue - Ad Spend`
 
 ### Impressions:
 Number of times an ad/post/content was shown (screen displays).
