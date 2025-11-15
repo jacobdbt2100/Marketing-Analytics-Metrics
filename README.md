@@ -28,10 +28,10 @@ User purchase/subscription intent without conversion; `add_to_cart`, `signup`, `
 User completion of the desired business action; `purchase`, `subscription`, `download`
 
 ### Return on Investment (ROI):
-Measures ad profitability rate;	`= (Ads Revenue - Ad Spend) * 100 / Ad Spend`
+Measures ad profitability rate;	`= (Ad Revenue - Ad Spend) * 100 / Ad Spend`
 
 ### Return on Ad Spend (ROAS):
-`= Revenue / Ad Spend`
+`= Ad Revenue / Ad Spend`
 
 ### Cost per Click (CPC):
 Measures how much is paid each time a user clicks on an ad in pay-per-click (PPC) campaigns;	`= Ad Spend / Clicks`
